@@ -8,3 +8,9 @@ Visual Studio Code.
 É o melhor curso de Git que já vi. Explicação boa e devagar. 
 Excelente para iniciantes. E, muito acessível pois é de graça 
 pelo Youtube do TMW.
+
+-------------------------------------------------------
+
+Participação livre
+
+-------------------------------------------------------
