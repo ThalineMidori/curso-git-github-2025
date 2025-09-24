@@ -9,6 +9,8 @@ Visual Studio Code.
 Excelente para iniciantes. E, muito acessível pois é de graça 
 pelo Youtube do TMW.
 
+[Curso Git e GitHub]: (https://youtube.com/playlist?list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL&si=TaFYLOe2bisyHKbk)
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
