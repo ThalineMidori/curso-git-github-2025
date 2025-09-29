@@ -9,7 +9,9 @@ Visual Studio Code.
 Excelente para iniciantes. E, muito acessível pois é de graça 
 pelo Youtube do TMW.
 
-[Curso Git e GitHub](https://youtube.com/playlist?list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL&si=TaFYLOe2bisyHKbk)
+Para a playlist das aulas de [Curso Git e GitHub](https://youtube.com/playlist?list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL&si=TaFYLOe2bisyHKbk)
+
+Também tem atualizações de curso e eventos no site [TeoMeWhy](https://cursos.teomewhy.org/)
 
 ## Fluxo de trabalho Git local
 
